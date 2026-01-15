@@ -1,0 +1,6 @@
+Paloma
+Gorrion
+Colibri
+Perro
+Gato
+Persona
