@@ -25,3 +25,8 @@ para **analizar imágenes** enviadas por los usuarios y clasificarlas usando
 - Devuelve:
   - La **clase detectada**
   - El **nivel de confianza**
+    
+---
+  ## Imagenes
+  ![Prueba de bot con un gato](assets/Bot_Demo.png)
+  ![Prueba de bot con un perro](assets/Bot_Demo2.png)
